@@ -1,0 +1,8 @@
+*.o
+pointers/task1_increment
+pointers/task2_array_pointer
+pointers/task3_compare
+pointers/task4_sum_file
+pointers/task5_swap
+pointers/task6_print_array
+tictactoe/tictactoe
